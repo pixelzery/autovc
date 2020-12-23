@@ -23,6 +23,7 @@ The audio demo for AUTOVC can be found [here](https://auspicious3000.github.io/a
 - PyTorch >= v0.4.1
 - TensorFlow >= v1.3 (only for tensorboard)
 - librosa
+- soundfile
 - tqdm
 - wavenet_vocoder ```pip install wavenet_vocoder```
   for more information, please refer to https://github.com/r9y9/wavenet_vocoder
