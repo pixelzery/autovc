@@ -25,6 +25,7 @@ The audio demo for AUTOVC can be found [here](https://auspicious3000.github.io/a
 - librosa
 - soundfile
 - tqdm
+- requests
 - wavenet_vocoder ```pip install wavenet_vocoder```
   for more information, please refer to https://github.com/r9y9/wavenet_vocoder
 
